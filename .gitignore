@@ -1,0 +1,7 @@
+node_modules/
+dist/
+backend/propconnect.db
+backend/__pycache__/
+backend/**/*.pyc
+.env
+backend/.env
